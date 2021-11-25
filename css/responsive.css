@@ -1,0 +1,10 @@
+@media (max-width:500px){
+    #formulario{
+        padding-left: 0;
+     }
+}
+@media (max-width:900px){
+    #formulario{
+        padding-left: 0;
+     }
+}

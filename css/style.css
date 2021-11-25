@@ -1,0 +1,37 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-size: 20px;
+    font-weight: 700;
+}
+#formulario{
+   padding-left: 200px;
+}
+#formulario input{
+    border-radius: 20px;
+}
+.btn{
+    border-radius: 20px;;
+}
+.menu{
+    border-bottom: 1px solid silver;
+    cursor: pointer;
+    
+}
+#all:hover{
+    border-bottom: 1px solid rgb(82, 58, 240);
+    transition: .5s all ease-in-out;
+}
+#active:hover{
+    border-bottom: 1px solid rgb(82, 58, 240);
+    transition: .5s all ease-in-out;
+}
+#completed:hover{
+    border-bottom: 1px solid rgb(82, 58, 240);
+    transition: .5s all ease-in-out;
+}
+#checking{
+    width: 15px;
+    height: 15px;
+}
